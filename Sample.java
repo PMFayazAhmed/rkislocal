@@ -4,6 +4,5 @@ class Sample
 	{
 		System.out.println("Hello Java");
 		System.out.println("Thank you");
-		System.out.println("Welcome");
 	}
 }
