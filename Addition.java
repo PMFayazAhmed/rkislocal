@@ -3,8 +3,11 @@ class Addition
 	public static void main(String args[])
 	{
 		int a,b,sum,prod,subtraction;
-		a=40;
-		b=70;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter a value");
+		a=s.nextInt();
+		System.out.println("Enter b value");
+		b=s.nextInt();
 		sum=a+b;
 		System.out.println("The sum value is : "+sum);
 		prod=a*b;
