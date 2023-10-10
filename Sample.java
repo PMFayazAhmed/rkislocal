@@ -5,5 +5,6 @@ class Sample
 		System.out.println("Hello Java");
 		System.out.println("Thank you");
 		System.out.println("Added sop statement1");
+		 System.out.println("Added sop statement2");
 	}
 }
